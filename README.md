@@ -30,4 +30,22 @@ Using `AVG(close)` grouped by year.
 
 ### 3. What is the **Year-over-Year (YoY) % change** in average closing price?
 
+## Tools Used
 
+MySQL
+
+Jupyter Notebook
+
+Python SQL Magic
+
+Finance dataset (S&P 500 historical prices)
+
+## What I Learned
+
+Using Common Table Expressions (CTEs)
+
+Window functions (LAG(), ordering partitions)
+
+Aggregation concepts in finance
+
+Designing beginner SQL finance projects
